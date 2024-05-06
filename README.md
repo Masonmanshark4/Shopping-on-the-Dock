@@ -45,7 +45,7 @@ This application is powered by Node.js (v16.19.1), Express.js (v14.17.1), JavaSc
 ## Installation
 
 1. Clone the repo:
-   git clone https://github.com/rmessett15/E-Commerce-Back-End.git
+   git clone: https://github.com/Masonmanshark4/Shopping-on-the-Dock.git
 
 2. Open in VS Code. If you do not have VS code you must install it.
 
