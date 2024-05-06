@@ -41,18 +41,22 @@ router.post('/', async (req, res) => {
 
 router.put('/:id', async (req, res) => {
   try {
+    // Update the tag's data
     await Tag.update(req.body, {
       where: {
         id: req.params.id,
       },
     });
-    res.status(200).json({ message: 'Tag updated successfully!' });
+
+    // Retrieve product tags associated with the updated tag
     const productTags = await ProductTag.findAll({ where: { tag_id: req.params.id } });
+
+    res.status(200).json({ message: 'Tag updated successfully!', productTags });
   } catch (err) {
     res.status(500).json(err);
   }
-  // update a tag's name by its `id` value
 });
+
 
 router.delete('/:id', async (req, res) => {
   try {
