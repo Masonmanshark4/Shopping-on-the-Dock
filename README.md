@@ -24,13 +24,13 @@ This application was created so that internet retail companies can utilize a MyS
 
 ## Live Screen Recording of Application Functionality
 
-
+https://drive.google.com/file/d/1JT_LAFn-bT7V6QsQELqSYje5-m-mckEB/view?usp=sharing
 
 ## Screenshots
 
-![alt-image](C:\Users\mason\Documents\Shoppin from the Docks\assets\Screenshot 2024-05-06 181611.png)
+![alt-image]([C:\Users\mason\Documents\Shoppin from the Docks\assets\Screenshot 2024-05-06 181611.png](https://github.com/Masonmanshark4/Shopping-on-the-Dock/blob/c5f2edd951849ca8f483ae96beb8fe2305d1d2ab/assets/Screenshot%202024-05-06%20181611.png))
 
-![alt-image](C:\Users\mason\Documents\Shoppin from the Docks\assets\Screenshot 2024-05-06 222241.png)
+![alt-image]([C:\Users\mason\Documents\Shoppin from the Docks\assets\Screenshot 2024-05-06 222241.png](https://github.com/Masonmanshark4/Shopping-on-the-Dock/blob/c5f2edd951849ca8f483ae96beb8fe2305d1d2ab/assets/Screenshot%202024-05-06%20222241.png))
 
 ## Technologies
 
